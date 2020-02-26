@@ -44,8 +44,18 @@ ___
 
 ![desktop view](https://raw.githubusercontent.com/izharkhanit/Online-Bank-Statement/master/img/desktop-view.jpg)
 
+___
+
+### LIT ELEMENT IMPLEMENTATION ###
+___
+
+![desktop view](https://raw.githubusercontent.com/izharkhanit/Online-Bank-Statement/master/img/yearly-chart.jpg)
+
+
 ### Rules 
-1. On landing page having dropdown with multiple accounts fetching from API
-2. Negative balance shows red in color while positive in green
-3. while selecting the particular account from dropdown it will display the transactions list
+1. On landing page having dropdown with multiple accounts fetching from API in polymer
+2. Negative balance shows red in color while positive in green in polymer
+3. while selecting the particular account from dropdown it will display the transactions list in polymer
 4. while selecting the particular transaction it will show transaction overview with google map address.
+5. There will be one button `Show Yearly Chart` implemented in lit element
+6. Once `Show Yearly Chart` clicked, lit element high charts with their yearly income and spendings appears
